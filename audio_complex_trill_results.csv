@@ -1,0 +1,2 @@
+model,train_accuracy_mean,train_accuracy_std,test_accuracy_mean,test_accuracy_std,avg_trn_time
+TRILL_LSTM,0.7135,0.0061,0.6519,0.0097,9615.2062
